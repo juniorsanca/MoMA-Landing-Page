@@ -137,13 +137,21 @@
                     <img src="../images/img1.png" alt="image" class="mb-12 md:mb-6 lg:mb-8 hover:opacity-75 transition ease-in-out duration-500">
                     <h3 style="color: #fff; font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 48px;line-height: 72px;">Expo 1</h3>
                     <p style="color: #C2C2C2;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 16px;line-height: 26px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p style="color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations </p>
+                    
+                    <p style="display: flex;
+                    align-items: center; color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>
                 </div><br><br>
                     <img src="../images/img3.png" alt="image" class="mb-6 md:mb-6 lg:mb-8 hover:opacity-75 transition ease-in-out duration-500">
                     <h3 style="color: #fff; font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 48px;line-height: 72px;">Expo 3</h3>
                     <p style="color: #C2C2C2;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 16px;line-height: 26px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p style="color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations </p>
-            </div><br><br>
+                    <p style="display: flex;
+                    align-items: center; color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>            </div><br><br>
 
             <div>
                 <div>
@@ -151,15 +159,21 @@
                     <img src="../images/img2.png" alt="image" class="mb-6 md:mb-6 lg:mb-8 hover:opacity-75 transition ease-in-out duration-500">
                     <h3 style="color: #fff; font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 48px;line-height: 72px;">Expo 2</h3>
                     <p style="color: #C2C2C2;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 16px;line-height: 26px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p style="color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations </p>
-                </div><br><br>
+                    <p style="display: flex;
+                    align-items: center; color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>                </div><br><br>
 
                 <div>
                     <img src="../images/img4.png" alt="image" class="mb-6 md:mb-6 lg:mb-8 hover:opacity-75 transition ease-in-out duration-500">
                     <h3 style="color: #fff; font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 48px;line-height: 72px;">Expo 4</h3>
                     <p style="color: #C2C2C2;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 16px;line-height: 26px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p style="color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations </p>
-                </div>
+                    <p style="display: flex;
+                    align-items: center; color: #FFFFFF;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Plus d’informations  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>                </div>
             </div>
         </div>
 
@@ -174,17 +188,20 @@
         <div class="flex space-x-4 md:space-x-6 lg:space-x-6">
             <div>
                 <div>
-                    <h5 style="color: #fff;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 40px;line-height: 60px;">UN FOND <br> D'ART MODERNE</h3>
-                    <p style="color: #C2C2C2;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 16px;line-height: 26px;">
+                    <h5 style="color: #fff; position: absolute;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 70px;line-height: 60px;">UN FOND <br> D'ART MODERNE</h3>
+                </div>
+                <div>
+                    <br><br><br><br><br>
+                    <p style="color: #C2C2C2;position: absolute;font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 16px;line-height: 26px;">
                     Depuis 1929, le Museum of Modern Art de New <br>York est une référence mondiale en terme d’arts<br> moderne et contemporain. Retrouvez une partie <br>de son incroyable collection à Paris - La Villette.</p>
-                </div><br><br>
+                </div><br><br><br><br><br><br><br>
                     <img src="../images/img6.png" alt="image" style="width: 292px; height: 457px;" class="mb-6 md:mb-6 lg:mb-8 hover:opacity-75 transition ease-in-out duration-500">
                     <img src="../images/img7.png" alt="image" style="width: 608px;height: 182px;" class="">
             </div><br><br>
 
             <div>
                 <div>
-                    <img src="../images/img5.png" alt="image" style="width: 713px;height: 721px;" class="mb-6 md:mb-6 lg:mb-8 hover:opacity-75 transition ease-in-out duration-500">
+                    <img src="../images/img5.png" alt="image" style="width: 1400px;height: 721px;" class="mb-6 md:mb-6 lg:mb-8 hover:opacity-75 transition ease-in-out duration-500">
                     <h3 style="color: #fff; font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 60px;line-height: 60px;text-align: right;text-transform: uppercase;">UNE RICHESSE INÉGALÉE</h3>
                     <p style="color: #FFF; font-family: 'Poppins';font-style: normal;font-weight: 400;font-size: 16px;line-height: 24px;text-align: right;"> Dessins, peintures, chef d’oeuvres de design,<br> photographies, sculptures... Autant de trésors que <br> vous pourrez désormais admirer au sein des <br>26 000 m2 de la halle de la Villette.</p>
                 </div><br>
@@ -208,15 +225,25 @@
 
         <div class="flex flex-col md:flex-row md:items-center justify-center md:space-x-8 lg:space-x-12 mb-10 md:mb-20">
             
-        <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px;"><br>
-        <p class="text-center" style="color:black"> ART ENTHUSIAST </p>
-                    <p class="text-center">100€/an</p><br>
+        <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px; margin-top:-100px;"><br>
+        <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART ENTHUSIAST </p>
+                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">100€/an</p><br>
                     <hr class="text-center" style="border: 1px solid #000000;width: 331px;height: 0px; margin-left: 30px;"><br>
 
                     <div class="items-center gap-5 mx-8">
-                        <p class="">Coupe-file</p>
-                        <p class="">Avant-prèmiere</p>
-                        <p class="">Ligne dédiée</p>
+                        <p class="" style="display: flex;
+                        align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                          </svg></span>Coupe-file</p> <p class="" style="display: flex;
+                          align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                              <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg></span>Avant-prèmiere</p><p class="" style="display: flex;
+                            align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                              </svg></span>Ligne dédiée</p>
                     </div>
                     <p class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
                     Possibilité d’inviter un ami<br>
@@ -230,15 +257,25 @@
                 
         </div>
 
-            <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px;"><br>
-                    <p class="text-center" style="color:black"> ART ENTHUSIAST </p>
-                    <p class="text-center">100€/an</p><br>
+            <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px; margin-top: 85px;"><br>
+                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART ENTHUSIAST </p>
+                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">100€/an</p><br>
                     <hr class="text-center" style="border: 1px solid #000000;width: 331px;height: 0px; margin-left: 30px;"><br>
 
                     <div class="items-center gap-5 mx-8">
-                        <p class="">Coupe-file</p>
-                        <p class="">Avant-prèmiere</p>
-                        <p class="">Ligne dédiée</p>
+                        <p class="" style="display: flex;
+                        align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                          </svg></span>Coupe-file</p> <p class="" style="display: flex;
+                          align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                              <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg></span>Avant-prèmiere</p><p class="" style="display: flex;
+                            align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                              </svg></span>Ligne dédiée</p>
                     </div>
                     <p class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
                     Possibilité d’inviter un ami<br>
@@ -255,17 +292,27 @@
 
 
 
-        <div class="flex flex-col md:flex-row md:items-center justify-center md:space-x-8 lg:space-x-12 mb-10 md:mb-20">
+        <div class="flex flex-col md:flex-row md:items-center justify-center md:space-x-8 lg:space-x-12 mb-10 md:mb-20; margin-top:-520px;">
             
-            <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px;"><br>
-                    <p class="text-center" style="color:black"> ART ENTHUSIAST </p>
-                    <p class="text-center">100€/an</p><br>
+            <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px;margin-top:-210px;"><br>
+                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART ENTHUSIAST </p>
+                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">100€/an</p><br>
                     <hr class="text-center" style="border: 1px solid #000000;width: 331px;height: 0px; margin-left: 30px;"><br>
 
                     <div class="items-center gap-5 mx-8">
-                        <p class="">Coupe-file</p>
-                        <p class="">Avant-prèmiere</p>
-                        <p class="">Ligne dédiée</p>
+                        <p class="" style="display: flex;
+                        align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                          </svg></span>Coupe-file</p> <p class="" style="display: flex;
+                          align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                              <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg></span>Avant-prèmiere</p><p class="" style="display: flex;
+                            align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                              </svg></span>Ligne dédiée</p>
                     </div>
                     <p class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
                     Possibilité d’inviter un ami<br>
@@ -278,15 +325,25 @@
                     <h3 class="text-center" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 18px;color: #000000;text-transform: uppercase;line-height: 22px;">DEVENEZ MEMBRE</h3>
                 </div>
     
-                <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px;"><br>
-                    <p class="text-center" style="color:black"> ART ENTHUSIAST </p>
-                    <p class="text-center">100€/an</p><br>
+                <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px; margin-top: -30px;"><br>
+                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART ENTHUSIAST </p>
+                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">100€/an</p><br>
                     <hr class="text-center" style="border: 1px solid #000000;width: 331px;height: 0px; margin-left: 30px;"><br>
 
                     <div class="items-center gap-5 mx-8">
-                        <p class="">Coupe-file</p>
-                        <p class="">Avant-prèmiere</p>
-                        <p class="">Ligne dédiée</p>
+                        <p class="" style="display: flex;
+                        align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                          </svg></span>Coupe-file</p> <p class="" style="display: flex;
+                          align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                              <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg></span>Avant-prèmiere</p><p class="" style="display: flex;
+                            align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                              </svg></span>Ligne dédiée</p>
                     </div>
                     <p class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
                     Possibilité d’inviter un ami<br>

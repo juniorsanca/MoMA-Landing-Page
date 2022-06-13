@@ -320,7 +320,7 @@
                     Visites exclusives en compagnie des<br>
                     commissaires des expositions<br><br>
                     Invitations régulières à des visites<br>
-                    découvertes et événements privés<br>
+                    découvertes et événements privés.<br>
     
                     <h3 class="text-center" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 18px;color: #000000;text-transform: uppercase;line-height: 22px;">DEVENEZ MEMBRE</h3>
                 </div>

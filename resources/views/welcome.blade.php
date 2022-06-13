@@ -46,8 +46,9 @@
 
         <nav class="flex-wrap lg:flex items-center py-14 xl:relative z-10" x-data="{navbarOpen:false}">
 
-            <div class="flex items-center justify-between mb-10 lg:mb-0">
+            <div class="flex items-end justify-between mb-10 lg:mb-0">
                 <img src="../images/Moma_Logo.png" alt="Logo img" class="" width="133.95px" height="33.83px">
+                <h1 style="color: #D8B64D">paris</h1>
             </div>
 
         </nav>
@@ -253,13 +254,17 @@
                     Invitations régulières à des visites<br>
                     découvertes et événements privés<br>
     
-                    <h3 class="text-center" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 18px;color: #000000;text-transform: uppercase;line-height: 22px;">DEVENEZ MEMBRE</h3>
+                    <p style="display: flex;
+                    align-items: center; justify-content: center; color: black;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">DEVENEZ MEMBRE  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>                     
                 
         </div>
 
             <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px; margin-top: 85px;"><br>
-                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART ENTHUSIAST </p>
-                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">100€/an</p><br>
+                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART LOVER </p>
+                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">200€/an</p><br>
                     <hr class="text-center" style="border: 1px solid #000000;width: 331px;height: 0px; margin-left: 30px;"><br>
 
                     <div class="items-center gap-5 mx-8">
@@ -275,18 +280,28 @@
                             align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-                              </svg></span>Ligne dédiée</p>
+                              </svg></span>Ligne dédiée</p>  <p class="" style="display: flex;
+                              align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                  <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                </svg></span>Possibilité d'inviter un ami</p>  <p class="" style="display: flex;
+                                align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                  </svg></span>Accès aux collections privées</p> 
+
                     </div>
                     <p class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
-                    Possibilité d’inviter un ami<br>
-                    Accès aux collections privées<br><br>
                     Visites exclusives en compagnie des<br>
                     commissaires des expositions<br><br>
                     Invitations régulières à des visites<br>
                     découvertes et événements privés<br>
     
-                    <h3 class="text-center" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 18px;color: #000000;text-transform: uppercase;line-height: 22px;">DEVENEZ MEMBRE</h3>
-                </div>
+                    <p style="display: flex;
+                    align-items: center; justify-content: center; color: black;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">DEVENEZ MEMBRE  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>                 </div>
 
         </div>
 
@@ -295,8 +310,8 @@
         <div class="flex flex-col md:flex-row md:items-center justify-center md:space-x-8 lg:space-x-12 mb-10 md:mb-20; margin-top:-520px;">
             
             <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px;margin-top:-210px;"><br>
-                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART ENTHUSIAST </p>
-                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">100€/an</p><br>
+                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART EXPERT </p>
+                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">400€/an</p><br>
                     <hr class="text-center" style="border: 1px solid #000000;width: 331px;height: 0px; margin-left: 30px;"><br>
 
                     <div class="items-center gap-5 mx-8">
@@ -312,22 +327,37 @@
                             align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-                              </svg></span>Ligne dédiée</p>
+                              </svg></span>Ligne dédiée</p>  <p class="" style="display: flex;
+                              align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                  <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                </svg></span>Possibilité d’inviter un ami</p> <p class="" style="display: flex;
+                                align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                  </svg></span>Accès aux collections privées</p> <p class="" style="display: flex;
+                                  align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                      <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                    </svg></span>  Visites exclusives en compagnie des<br>
+                                    commissaires des expositions</p> <p class="" style="display: flex;
+                                    align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                      </svg></span>Invitations régulières à des visites<br>
+                                      découvertes et événements privés</p>
                     </div>
-                    <p class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
-                    Possibilité d’inviter un ami<br>
-                    Accès aux collections privées<br><br>
-                    Visites exclusives en compagnie des<br>
-                    commissaires des expositions<br><br>
-                    Invitations régulières à des visites<br>
-                    découvertes et événements privés.<br>
-    
-                    <h3 class="text-center" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 18px;color: #000000;text-transform: uppercase;line-height: 22px;">DEVENEZ MEMBRE</h3>
-                </div>
+                    <p style="margin-bottom: 5em;" class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
+                        
+                    <p style="display: flex;
+                    align-items: center; justify-content: center; color: black;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">DEVENEZ MEMBRE  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>                 </div>
     
                 <div class="bg-gray-100 rounded-lg mb-10 md:mb-0" style="width: 397px;height: 481px; margin-top: -30px;"><br>
-                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART ENTHUSIAST </p>
-                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">100€/an</p><br>
+                    <p class="text-center" style="color:black; font-weight: bold; font-size:22px;"> ART FAMILY </p>
+                    <p style="color:black; font-weight: bold; font-size:22px;" class="text-center">à partir de 80€ / an par pers.</p><br>
                     <hr class="text-center" style="border: 1px solid #000000;width: 331px;height: 0px; margin-left: 30px;"><br>
 
                     <div class="items-center gap-5 mx-8">
@@ -335,26 +365,25 @@
                         align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-                          </svg></span>Coupe-file</p> <p class="" style="display: flex;
+                          </svg></span>Ateliers et parcours dédiés au jeune public
+                        </p> <p class="" style="display: flex;
                           align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
                               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                               <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-                            </svg></span>Avant-prèmiere</p><p class="" style="display: flex;
+                            </svg></span>Ateliers et goûters d’anniversaire le mercredi après-midi pour les enfants de 7 à 12 ans</p><p class="" style="display: flex;
                             align-items: center;"> <span style="margin-right:5px;color:#D8B64D!important;">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-                              </svg></span>Ligne dédiée</p>
+                              </svg></span>Entrée gratuit pour les anniversaires</p>
                     </div>
                     <p class="font-normal text-sm lg:text-md text-gray-400 mx-8 my-8">
-                    Possibilité d’inviter un ami<br>
-                    Accès aux collections privées<br><br>
-                    Visites exclusives en compagnie des<br>
-                    commissaires des expositions<br><br>
-                    Invitations régulières à des visites<br>
-                    découvertes et événements privés<br>
+                    <br><br> <br><br> <br>
     
-                    <h3 class="text-center" style="font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 18px;color: #000000;text-transform: uppercase;line-height: 22px;">DEVENEZ MEMBRE</h3>
-                </div>
+                    <p style="display: flex;
+                    align-items: center; justify-content: center; color: black;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">DEVENEZ MEMBRE  <span style="margin-left:10px;color:#c71900!important;">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg></span></p>                 </div>
     
             </div>
     </div> <!-- container.// -->

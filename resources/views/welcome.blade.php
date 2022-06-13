@@ -394,13 +394,46 @@
 <!-- footer -->
 <footer style= "background-color: #D2D5DA" class=" py-10 md:py-16">
 
+    
     <div class="container max-w-screen-xl mx-auto px-4">
 
-        <div class="flex flex-col lg:flex-row justify-between">
+        <div style="margin-right: 10em; margin-left: 10em;" class="flex flex-col lg:flex-row justify-between">
+            
+           
+
             <div class="text-center lg:text-left mb-10 lg:mb-0">
-                <div class="flex justify-center lg:justify-start mb-5">
-                    <img src="assets/image/footer-logo.png" alt="Image">
-                </div>
+                <h4 class="font-semibold text-gray-800 text-xl mb-6">A propos</h4>
+            </div>
+
+          
+            <div class="text-center lg:text-left mb-10 lg:mb-0">
+                <h4 class="font-semibold text-gray-800 text-xl mb-6">Support</h4>
+            </div>
+
+            <div class="text-center lg:text-left mb-10 lg:mb-0">
+                <h4 class="font-semibold text-gray-800 text-xl mb-6">Presse</h4>
+            </div>
+
+            <div class="text-center lg:text-left mb-10 lg:mb-0">
+                <h4 class="font-semibold text-gray-800 text-xl mb-6">Centre de Ressources</h4>
+            </div>
+
+            <div class="text-center lg:text-left mb-10 lg:mb-0">
+
+                <h4 class="font-semibold text-gray-800 text-xl mb-6"style="display: flex;
+                align-items: center; justify-content: center; color: black;font-family: 'Poppins';font-style: normal;font-weight: 700;font-size: 18px;line-height: 27px;">Top  <span style="margin-left:10px;color:#c71900!important;">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+                      </svg></span></h4>
+
+        
+            </div>
+
+
+            
+
+            <!--<div class="text-center lg:text-left mb-10 lg:mb-0">
+               
 
                 <p class="font-light text-gray-400 text-xl mb-10">Get your dream house with <br> D’house</p>
 
@@ -419,42 +452,85 @@
                 </div>
             </div>
 
-            <div class="text-center lg:text-left mb-10 lg:mb-0">
-                <h4 class="font-semibold text-gray-900 text-2xl mb-6">Sitemap</h4>
-
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Home</a>
-
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Features</a>
-                
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Gallery</a>
-                
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Testimoni</a>
-                
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Book a meeting</a>
-            </div>
-
-            <div class="text-center lg:text-left mb-10 lg:mb-0">
-                <h4 class="font-semibold text-gray-900 text-2xl mb-6">Landing</h4>
-
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Mobile App</a>
-
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Property</a>
-                
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Personal Website</a>
-                
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Web Developer</a>
-                
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Online Course</a>
-
-                <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Donation</a>
-            </div>
-
             <div class="text-center lg:text-left">
                 <h4 class="font-semibold text-gray-900 text-2xl mb-6">Utility</h4>
 
                 <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">FAQ</a>
 
                 <a href="#" class="block font-light text-gray-400 text-xl mb-6 hover:text-gray-800 transition ease-in-out duration-300">Terms &amp; Conditions</a>
+            </div>-->
+        </div>
+
+    </div> <!-- container.// -->
+
+    <div style="margin-top: 3em;" class="container max-w-screen-xl mx-auto px-4 flex flex-col lg:flex-rox justify-between">
+
+        <div style="margin-right: 10em; margin-left: 10em;" class="flex flex-col lg:flex-col justify-between">
+            
+           
+
+            <div class="text-center lg:text-left mb-10 lg:mb-0">
+                <h4 class="font-semibold text-gray-800 text-xl mb-6">Ne ratez pas les prochaines expositions</h4>
+            </div>
+
+            <form class="w-full max-w-sm">
+                <div class="flex items-center border-b text-black-800 color-black  py-2">
+                  <input class="appearance-none text-black-500 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none" type="text" placeholder="Votre Email" aria-label="Full name">
+                
+                  <button class="flex-shrink-0 border-transparent border-4 text-black-800 hover:text-teal-800 text-sm py-1 px-2 rounded" type="button">
+                    Envoyer
+                  </button>
+                </div>
+              </form>
+            <div class="text-center lg:text-left mb-10 lg:mb-0">
+
+              
+
+        
+            </div>
+        </div>
+
+        <div style="margin-right: 10em; margin-left: 10em;" class="flex flex-col lg:flex-col">
+            
+            <button style="color: #fff " class="bg-black hover:bg-gray-100 font-semibold py-2 px-4 border border-gray-400 rounded shadow">
+                Contactez le support
+              </button>
+
+        
+            </div>
+        </div>
+
+    </div> <!-- container.// -->
+    
+    <div style="margin-top: 10em" class="container max-w-screen-xl mx-auto px-4">
+
+        <div style="margin-right: 10em; margin-left: 10em;" class="flex flex-col lg:flex-row justify-between">
+
+            <div class="text-center lg:text-left mb-10 lg:mb-0">
+               
+
+
+                <div class="flex items-center justify-center lg:justify-start space-x-5">
+                    <a style="color:#D8B64D" href="#" class="px-3 py-3 bg-gray-200 text-gray-700 rounded-full hover:bg-green-800 hover:text-white transition ease-in-out duration-500">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+                    </a>
+
+                    <a style="color:#D8B64D" href="#" class="px-3 py-3 bg-gray-200 text-gray-700 rounded-full hover:bg-green-800 hover:text-white transition ease-in-out duration-500">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-twitter"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg>
+                    </a>
+
+                    <a style="color:#D8B64D" href="#" class="px-3 py-3 bg-gray-200 text-gray-700 rounded-full hover:bg-green-800 hover:text-white transition ease-in-out duration-500">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+                    </a>
+                </div>
+            </div>
+
+            <div class="text-center lg:text-left">
+
+                <div class="flex items-end justify-between mb-10 lg:mb-0">
+                    <img src="../images/Moma_Logo.png" alt="Logo img" class="" width="133.95px" height="33.83px">
+                    <h1 style="color: #D8B64D">paris</h1>
+                </div>
             </div>
         </div>
 
